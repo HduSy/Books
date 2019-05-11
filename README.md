@@ -31,4 +31,4 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 提取码：b1ak
 
 
-![Image center](https://raw.githubusercontent.com/HduSy/Books/master/support%20me.jpg)
+<div align=center width=210 height=280>![Image center](https://raw.githubusercontent.com/HduSy/Books/master/support%20me.jpg)</div>
