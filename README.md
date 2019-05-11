@@ -31,4 +31,4 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 提取码：b1ak
 
 <img src="https://raw.githubusercontent.com/HduSy/Books/master/support%20me.jpg" width="210" height="280" div align="center" alt="支持我"/>
-<div align="center">![感谢您支持](https://raw.githubusercontent.com/HduSy/Books/master/support%20me.jpg)</div
+<div align="center">![Image text](https://raw.githubusercontent.com/HduSy/Books/master/support%20me.jpg)</div
