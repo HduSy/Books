@@ -29,4 +29,7 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 
 链接：https://pan.baidu.com/s/1RVIFmUSUdXS3JLCu8_krYA
 提取码：wmf5
+
+> [My Github](https://github.com/HduSy/Books)
+
 <div align=center><img src="https://raw.githubusercontent.com/HduSy/Books/master/support_me_thankyou.jpg" width="210" height="280" alt="感谢您支持"/></div>
