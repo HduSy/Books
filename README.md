@@ -27,9 +27,7 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 
 > 《从零开始学Python网络爬虫》《数字图像处理（第三版） 作者：刚萨雷斯》《Tensorflow：实战Google框架》《Tensorflow实战 黄文坚》《机器视觉算法与应用》《计算机视觉：模型、视觉与推理》《计算机视觉：一种现代方法》《统计学习方法》《图像处理、分析与机器视觉（第三版）》《机器学习 周志华》《Python基础编程：从入门到实践》
 
-链接：https://pan.baidu.com/s/1RVIFmUSUdXS3JLCu8_krYA
-提取码：wmf5
-链接会阶段性失效，留下您的邮箱有空我会联系您
+百度云链接会阶段性失效，留下您的邮箱有空我会联系您
 
 > [Fork Me On GitHub](https://github.com/HduSy/Books)
 
