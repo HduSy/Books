@@ -29,6 +29,7 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 
 链接：https://pan.baidu.com/s/1RVIFmUSUdXS3JLCu8_krYA
 提取码：wmf5
+链接会阶段性失效，留下您的邮箱有空我会联系您
 
 > [Fork Me On GitHub](https://github.com/HduSy/Books)
 
