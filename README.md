@@ -17,7 +17,7 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE FOREVER
 
 > 《Spark快速大数据分析》《Hive编程指南》《Hadoop实战》《Hadoop源代码分析》《Hadoop权威指南（第二版）》《Hadoop in Action》
 
-> 《Vue2实战揭秘》《深入浅出JavaScript》《jQuery基础教程（第四版）》《JavaScript经典实例》《JavaScriptDOM高级程序设计》《JavaScriptDOM高级编程艺术（第二版）》《ppk谈JavaScript》《JavaScript高级程序设计（第三版）》《JavaScript语言精粹》《JavaScript权威指南（第六版）》
+> 《Vue2实战揭秘》《深入浅出JavaScript》《jQuery基础教程（第四版）》《JavaScript经典实例》《JavaScriptDOM高级程序设计》《JavaScriptDOM高级编程艺术（第二版）》《ppk谈JavaScript》《JavaScript高级程序设计（第4版）》《JavaScript语言精粹》《JavaScript权威指南（第六版）》
 
 > 《Bootstrap实战》及 项目源码.zip
 
