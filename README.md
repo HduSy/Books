@@ -29,5 +29,5 @@ IT BOOKS I HAVE COLLECTED ALL LATEST EDITION AND RAW PDF FILE UPDATE ~~FOREVER~~
 
 <div align=center>
   <img src="https://avatars.githubusercontent.com/u/20160901?v=4" width="150" height="150" alt="感谢您支持"/></br>
-  <a href="https://github.com/HduSy/Books">Fork Me On Github</a>
+  <a href="https://github.com/HduSy">Fork Me On Github</a>
 </div>
